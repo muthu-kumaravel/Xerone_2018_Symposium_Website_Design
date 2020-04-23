@@ -1,5 +1,5 @@
 # Xerone 2018 Symposium Website Design
-This is the front end design of the website www. xerone2018. com (Website is removed from the hosting site after 2018 Symposium got over) which was used as the major website for events description, events registration and basic information about the technical symposium.
+This is the front end design of the website xerone2018. com (Website is removed from the hosting site after 2018 Symposium got over) which was used as the major website for events description, events registration and basic information about the technical symposium.
 
 This website is developed with the base of multiple programming languages,
 
